@@ -17,7 +17,7 @@ Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nan
 Modern AI and machine learning models are increasingly powerful, but their predictions are often produced by complex black-box systems and can be uncertain or imperfect. My research is centered around #predictive inference#, which studies how to quantify the uncertainty of black-box predictions and use them reliably in downstream statistical decisions.
 
 
-#Selective inference after data-driven discovery.# 
+*Selective inference after data-driven discovery.*
 <div style="margin-top: 1.1em; padding-left: 1em; border-left: 3px solid #d0d7de;">
 
 Scientific and business analyses increasingly rely on data or AI models to select promising cases and form data-driven subgroups. 
