@@ -8,7 +8,7 @@ author_profile: true
 
 I am an Assistant Professor at the School of Management, University of Science and Technology of China (USTC). My research focuses on predictive inference, multiple testing, and selective inference. 
 
-Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nankai University, where I was very fortunate to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl_en/list.htm). I also visited the National University of Singapore, working with [Prof. Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
+Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nankai University, where I was very fortunate to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl_en/list.htm). I also visited the Department of Industrial Systems Engineering and Management at the National University of Singapore, hosted by [Prof. Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
 
 <strong>Email</strong>: [houyynk@gmail.com](mailto:houyynk@gmail.com) or [huoyuyang@ustc.edu.cn](mailto:huoyuyang@ustc.edu.cn)  
 
