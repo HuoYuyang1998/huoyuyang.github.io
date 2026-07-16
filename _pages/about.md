@@ -17,7 +17,7 @@ Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nan
 Modern AI and machine learning models are increasingly powerful, but their predictions are often produced by complex black-box systems and can be uncertain or imperfect. My research is centered around  <strong>predictive inference </strong>, which studies how to quantify the uncertainty of black-box predictions and use them reliably in downstream statistical decisions.
 
 
-- **Selective inference after data-driven discovery. **
+- <strong>Selective inference after data-driven discovery. <\strong>
 <div style="margin-top: 1.1em; padding-left: 1em; border-left: 3px solid #d0d7de;">
 <div style="font-size: 0.92em; line-height: 1.55;">
 
@@ -28,7 +28,7 @@ This line of work develops post-selection methods for prediction intervals and c
 </div>
 </div>
 
- - **Multiple testing for predictive decisions. **
+ - <strong>Multiple testing for predictive decisions. <\strong>
 
 <div style="margin-top: 1.1em; padding-left: 1em; border-left: 3px solid #d0d7de;">
 <div style="font-size: 0.92em; line-height: 1.55;">
