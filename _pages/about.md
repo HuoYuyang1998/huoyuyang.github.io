@@ -36,7 +36,7 @@ This line of work develops post-selection methods for <a href="https://doi.org/1
 
 Prediction scores are often used to support many decisions at once, such as selecting high-risk cases, promising candidates, or prioritized actions. 
 
-This line of work studies false discovery rate control for predictive decision-making, with recent interests in <a href="[https://doi.org/10.1093/biomet/asae010](https://doi.org/10.1080/01621459.2023.2282644)">diversity-aware selection</a>, <a href="https://arxiv.org/abs/2509.03297">online testing with feedback</a>, and <a href="https://arxiv.org/abs/2508.12085">data reuse</a>.
+This line of work studies false discovery rate control for predictive decision-making, with recent interests in <a href="https://doi.org/10.1080/01621459.2023.2282644">diversity-aware selection</a>, <a href="https://arxiv.org/abs/2509.03297">online testing with feedback</a>, and <a href="https://arxiv.org/abs/2508.12085">data reuse</a>.
 
 </div>
 </div>
