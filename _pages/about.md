@@ -16,7 +16,7 @@ Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nan
 Modern AI and machine learning models are powerful, but their predictions can be uncertain, biased, or difficult to interpret. My research is centered around **predictive inference**, which studies how to quantify the uncertainty of black-box predictions and use them reliably in downstream decisions.
 
 
-Around predictive inference, my current research interests include:
+Current research interests include:
 
 - **Selective inference after data-driven discovery:** reliable uncertainty quantification after selecting promising cases, hypotheses, or subgroups.
 
