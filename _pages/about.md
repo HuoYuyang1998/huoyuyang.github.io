@@ -21,7 +21,7 @@ Modern AI and machine learning models are increasingly powerful, but their predi
 <div style="margin-top: 1.1em; padding-left: 1em; border-left: 3px solid #d0d7de;">
 <div style="font-size: 0.92em; line-height: 1.55;">
 
-Scientific and business analyses increasingly rely on data or AI models to select promising cases and form data-driven subgroups. //
+Scientific and business analyses increasingly rely on data or AI models to select promising cases and form data-driven subgroups. 
 
 This line of work develops post-selection methods for [prediction intervals](https://doi.org/10.1093/biomet/asae010) and [conformal testing](https://proceedings.neurips.cc/paper_files/paper/2024/file/6b99cfe8f27a30d013f49a970aacd6e8-Paper-Conference.pdf), aiming to provide reliable uncertainty quantification after such adaptive selection.
 
@@ -33,7 +33,7 @@ This line of work develops post-selection methods for [prediction intervals](htt
 <div style="margin-top: 1.1em; padding-left: 1em; border-left: 3px solid #d0d7de;">
 <div style="font-size: 0.92em; line-height: 1.55;">
 
-Prediction scores are often used to support many decisions at once, such as selecting high-risk cases, promising candidates, or prioritized actions. //
+Prediction scores are often used to support many decisions at once, such as selecting high-risk cases, promising candidates, or prioritized actions. 
 
 This line of work studies false discovery rate control for predictive decision-making, with recent interests in [diversity-aware selection](https://doi.org/10.1080/01621459.2023.2282644), [online testing with feedback](https://arxiv.org/abs/2509.03297), and [data reuse](https://arxiv.org/abs/2508.12085).
 
