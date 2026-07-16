@@ -23,14 +23,5 @@ Around predictive inference, my current research interests include:
 - **Multiple testing for predictive decisions:** FDR control for large-scale prediction-driven decisions, especially with feedback, diversity constraints, and data reuse.
 
 
-
-
-#- **Selective inference after data-driven discovery:** Scientific and business analyses increasingly rely on data or AI models to select promising cases and form data-driven subgroups. This line of work develops post-selection methods for prediction intervals and conformal testing, aiming to provide reliable uncertainty quantification after such adaptive selection.
-
-
-#- **Multiple testing for predictive decisions:** Prediction scores are often used to support many decisions at once, such as selecting high-risk cases, promising candidates, or prioritized actions. This line of work studies false discovery rate control for predictive decision-making, with recent interests in diversity-aware selection, online testing with feedback, and data reuse.
-
-#- **Statistics for data-driven management:** Develop statistical methods for evaluating predictive decisions in management and business applications, with suitable criterion for sensitivity analysis.
-
 If you are interested in these areas, feel free to contact me!
 
